@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "77c11496bd8e85eceb3a739e",
+  "owner": "afhjsjkqr",
+  "repo": "page-e160b9a9155e0854b9b31d14",
+  "title": "UU加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e160b9a9155e0854b9b31d14",
+      "a": "UU加速器",
+      "b": "2027官方最新地址导航",
+      "entity": "UU加速器",
+      "brand": "UU加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ab6a9b31ccee546003474c4ae2f8ff048142d698926e49cd416b0c1b54482b60",
+      "content": {
+        "primary_entity": "UU加速器",
+        "keyword1": "UU加速器",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定连接海外游戏与流媒体服务的用户，提供多档套餐与多设备客户端配置方案。基础版每月100GB流量支持3台设备，旗舰版每月300GB流量支持5台设备并含IPLC专线，团队版每月1000GB流量支持20台设备。按年付可节省费用，请根据设备数量与流量需求选择订阅周期。",
+          "AI_HERO_SUBTITLE": "多设备订阅与套餐对比",
+          "AI_HERO_INTRO": "UU加速器提供基础版、旗舰版与团队版三类订阅，覆盖不同流量与设备数量需求。旗舰版含IPLC专线并支持全节点流媒体解锁，团队版提供专属高带宽节点与定制路由。用户可依据使用设备数量和月流量选择合适套餐，并按年付获取更优价格。",
+          "AI_VISUAL_TITLE": "UU加速器套餐选择",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版每月300GB流量",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB流量",
+          "AI_FEATURES_TITLE": "套餐选择与设备安排",
+          "AI_FEATURES_INTRO": "根据设备数量、月流量和订阅周期挑选套餐，避免资源不足或浪费。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按常用设备数决定。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB、1000GB三档流量，根据流媒体和游戏时长选择。",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同的订阅导入方式，请参考客户端文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在月流量、设备数量和节点权益上逐级提升，请按人数和设备数选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按设备数量和流量额度逐步完成。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量，从基础版、旗舰版或团队版中确定订阅档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与流量额度，并核对常用设备的系统要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档，将订阅信息导入设备并完成连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐稳定连接",
+          "AI_CLOSING_TEXT": "根据设备和流量需求选择套餐，按年付可节省长期使用成本，随后按客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并含IPLC专线游戏加速优化与优先工单支持。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付¥150相当于每月约¥12.5，旗舰版年付¥350约¥29.2，团队版年付¥850约¥70.8，均低于对应月付价。",
+          "AI_FAQ_QUESTION_3": "多台设备可以同时用同一个订阅吗？",
+          "AI_FAQ_ANSWER_3": "基础版可3台同时在线，旗舰版5台，团队版20台。超出数量时可考虑升级档位或为额外设备单独订阅。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅管理入口，粘贴订阅链接并更新，节点列表刷新后选择线路连接即可。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量、20台设备在线、VIP专属高带宽节点与企业定制路由，适合小团队或多人协作环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bowcvrd.cn",
+    "host": "bowcvrd.cn"
+  },
+  "file_hashes": {
+    "index.html": "1b09bbbcddbc1b1d0d139503c14efd8f33aed55bc106380f98577535efb8870e",
+    "sitemap.xml": "11a17ac0a1ff90f25fb4763ea8596ea9ba9b5e898f025e1d33383d5790f99630",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "29f55419a2cbdf2fa5235b34129dcaf77db7e0dc9a4bcfc0a28bc6b9423a77c9",
+    "robots.txt": "36e54d468e34895eb744efe48b65bfcecdf6e0d96b3917073a175dfc0bfd0843",
+    "75f9c60edb5142757f48186bb2013bec.txt": "aa07e23d3d2699b4b386e9cddea775bff445e3e38e47e4d24d1ff30c9ffa998f"
+  },
+  "revision": "768631c96f288b3a2f4816f2e2019739b8f15dd13a1c72c6c07db20ca0153fcb"
+}
